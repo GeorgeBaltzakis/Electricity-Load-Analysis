@@ -20,5 +20,3 @@ This project underscores the importance of understanding and optimizing energy c
 Feel free to connect if you're interested in discussing energy data analysis, machine learning, or any related topics. I'd love to hear your thoughts and exchange ideas.
 
 #ElectricityAnalysis #DataScience #EnergyEfficiency #MachineLearning #DataAnalytics #RenewableEnergy #EnergyManagement #Python
-
-Let me know if you'd like any further modifications or additions to this description.
